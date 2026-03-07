@@ -8,8 +8,8 @@ This directory contains the **PCB hardware design files** for the Peltier contro
 
 | Front | Back |
 |------|------|
-| ![](Hardware/PCB_Design/Front.jpeg) | ![](Hardware/PCB_Design/Back.jpeg) |
+| ![](PCB_Design/Front.jpeg) | ![](PCB_Design/Back.jpeg) |
 
 ## Schematics
 
-![Schematics](Hardware/Schematics/Schematics.jpeg)
+![Schematics](Schematics/Schematics.jpeg)
