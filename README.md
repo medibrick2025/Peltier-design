@@ -6,13 +6,11 @@ The Peltier Brick is a modular controller designed to operate two independent Pe
 
 A microcontroller generates PWM signals to regulate the power delivered to each Peltier element and control the temperature of each channel independently.
 
-# Repository Navigation
-
 ## Hardware Design
 
 KiCad PCB design files and manufacturing outputs:
 
-➡️ [Hardware](Hardware/)
+[Hardware](Hardware/)
 
 ---
 
@@ -20,35 +18,6 @@ KiCad PCB design files and manufacturing outputs:
 
 Power driver discussion and reference documentation:
 
-➡️ [DataSheet](DataSheet/power_solutions.md)
+[DataSheet](DataSheet/)
 
 ---
-
-## PCB Images
-
-Rendered PCB images for quick viewing:
-
-➡️ [PCB_Design](PCB_Design/)
-
----
-
-## Circuit Schematics
-
-Circuit schematic diagrams:
-
-➡️ [Schematics](Schematics/)
-
----
-
-## Source Attribution
-
-Part of the design reference and documentation is derived from the MediBrick project.
-
-Original repository:
-https://github.com/MediBrick/MediBrick
-
-Referenced document:
-https://github.com/MediBrick/MediBrick/blob/main/power_solutions.md
-
-This repository reorganizes the hardware design files and documentation for the **Peltier Heater–Cooler Brick controller**.
-
