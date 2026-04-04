@@ -1,0 +1,3 @@
+Placement file: 'C:\Users\mohth\Downloads\Peltier SMD_PCB_V3\SMD_PCB\SMD_PCB-all-pos.csv'.
+Info: Component count: 49.
+Info: Done.
