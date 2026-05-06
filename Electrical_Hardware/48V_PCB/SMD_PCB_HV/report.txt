@@ -1,0 +1,3 @@
+Placement file: 'C:\Users\mohth\Downloads\SMD_PCB_HV (3)\SMD_PCB_HV\POS\SMD_PCB-all-pos.csv'.
+Info: Component count: 68.
+Info: Done.
