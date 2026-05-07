@@ -1,11 +1,11 @@
 ## 1. Enable TTL Mode
 
-Before flashing the display, make sure the display is set to **TTL mode**.
+Before using the display with the ESP32 or other microcontrollers:
 
-The solder bridge on the back of the display controls the communication mode:
-
+Locate the TTL/232 jumper pads on the back of the display.
+Enable **TTL mode** by soldering or shorting the bridge labeled:
 - **ON = TTL**
-- **OFF = RS232**
+- **OFF = 232**
 
 ### TTL OFF Default
 
@@ -19,41 +19,38 @@ The solder bridge on the back of the display controls the communication mode:
 
 **Figure:** Short the bridge to enable TTL mode.
 
-> **Important:** TTL mode must be enabled before connecting the display to the ESP32 controller.
+> **Important:** If TTL mode is not enabled, the display may not communicate correctly with the controller.
 
 ---
 
-## 2. Download the DWIN_SET Folder
+## 2. Prepare the SD Card
 
 <img src="./GUI_images/3.png" width="250">
 
-Download or copy the complete `Dwin_Set` folder from the provided GUI files.
-
-Then copy the entire `Dwin_Set` folder to an SD card.
-
-Recommended SD card:
-
-- 16 GB or larger
-- FAT32 format
+Download the Dwin_Set folder provided with your GUI files.
+Use a high-quality SD card (16GB or larger recommended).
+Format the SD card to FAT32 if needed.
+Copy the entire Dwin_Set folder to the root directory of the SD card.
 - High-quality SD card preferred
 
 ---
 
-## 3. Power On the Display and Insert the SD Card
+## 3. Flash the GUI to the Display
 
 ### Step 1: Power the Display
 
+Power the display using:
+
 <img src="./GUI_images/4.png" width="350">
 
-Power on the display using a 5 V power supply.
+The ribbon cable power connection, or
+5V and GND wires.
 
-The display can be powered through the ribbon cable on the reverse side or through soldered 5 V and GND wires.
-
-### Step 2: Insert the SD Card
+### Step 2: Insert the SD Card WHILE the Display is ON
 
 <img src="./GUI_images/5.png" width="350">
 
-Insert the SD card containing the `Dwin_Set` folder into the SD card slot on the display.
+Insert the SD card into the display while the display remains powered ON..
 
 ### Step 3: Wait for the Update Screen
 
@@ -80,6 +77,8 @@ After the update is complete, disconnect the power from the display.
 <img src="./GUI_images/8.png" width="350">
 
 Remove the SD card from the display.
+
+**Important:( Keep the sd card inside and turn off the display while the Sd card in inside then turn it back on ) And keep everything else the same**
 
 ### Step 3: Power the Display Again
 
