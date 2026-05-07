@@ -1,19 +1,3 @@
-# Peltier Brick Assembly and User Manual
-
-**Project:** Dual Channel Peltier Device  
-**Revision:** 2.0  
-
-This README includes the electrical assembly instructions and the user manual for the Dual Channel Peltier Device.
-
-> **Image path note:** This README is located inside `Assembly_and_instructions/`.  
-> All images are stored in `Assembly_and_instructions/Electrical_assembly_instructions_images/`, so the correct relative path starts with:
->
-> `./Electrical_assembly_instructions_images/`
-
----
-
-# Part 1: Electrical Assembly Instructions
-
 ## 1. Components
 
 | Component | Image | Description |
