@@ -1,18 +1,3 @@
-# DWIN 7-Inch Display Setup Guide
-
-**Display:** DWIN 7 inch HMI Display  
-**Project:** Dual Channel Peltier GUI  
-
-This guide explains how to initialize the DWIN display and load the GUI files using an SD card.
-
-> **Image path note:** This README is located inside the `GUI/` folder.  
-> All images are stored in `GUI/GUI_images/`.  
-> Therefore, every image path in this file starts with:
->
-> `./GUI_images/`
-
----
-
 ## 1. Enable TTL Mode
 
 Before flashing the display, make sure the display is set to **TTL mode**.
