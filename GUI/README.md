@@ -56,7 +56,7 @@ Insert the SD card into the display while the display remains powered ON..
 
 <img src="./GUI_images/6.png" width="450">
 
-( Keep the sd card inside and turn off the display while the Sd card in inside then turn it back on ) And keep everything else the same) is correct but it should go here. A blue update screen will appear. The display will begin downloading and flashing the GUI files.
+( Keep the SD card inside and turn off the display while the Sd card in inside then turn it back on ) A blue update screen will appear. The display will begin downloading and flashing the GUI files.
 
 Wait until the screen shows **End** on the top right.
 
@@ -77,8 +77,6 @@ After the update is complete, disconnect the power from the display.
 <img src="./GUI_images/8.png" width="350">
 
 Remove the SD card from the display.
-
-**Important:( Keep the sd card inside and turn off the display while the Sd card in inside then turn it back on ) And keep everything else the same**
 
 ### Step 3: Power the Display Again
 
